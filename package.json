@@ -1,0 +1,24 @@
+{
+  "name": "119",
+  "version": "1.0.0",
+  "description": "Hello , this file is part of My DevOps Practical Exam, which includes Initializing a Git Repo and commiting README file....",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UtkarshJPandey/DevOps-ESE-A.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/UtkarshJPandey/DevOps-ESE-A/issues"
+  },
+  "homepage": "https://github.com/UtkarshJPandey/DevOps-ESE-A#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
